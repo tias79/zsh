@@ -1,0 +1,5 @@
+Clone to home dir:
+```git clone https://github.com/tias79/zsh.git ~/.zsh```
+
+Add to /etc/zsh/zshenv:
+```export ZDOTDIR="$HOME/.zsh"```
